@@ -1,0 +1,11 @@
+{
+  "name": "bootcamp-todoMVC",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Abner Rodrigues",
+  "license": "MIT",
+  "dependencies": {
+    "cypress": "^14.0.1",
+    "dotenv": "^16.4.7"
+  }
+}
